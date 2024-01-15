@@ -1,4 +1,4 @@
-name: Auto-approve Pull Request
+name: Auto-approve Pull Request TEST
 
 on:
   pull_request:
